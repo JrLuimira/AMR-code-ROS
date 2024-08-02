@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/stag_detect/include/stag_detect/DetectorParamsConfig.h

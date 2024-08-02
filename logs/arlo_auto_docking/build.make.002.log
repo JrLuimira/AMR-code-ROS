@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockFeedback
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockResult
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockActionGoal
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockGoal
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockActionResult
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockActionFeedback
+[  0%] Built target _arlo_auto_docking_generate_messages_check_deps_AutoDockAction
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target arlo_auto_docking_generate_messages_nodejs
+[ 40%] Built target arlo_auto_docking_generate_messages_py
+[ 59%] Built target arlo_auto_docking_generate_messages_lisp
+[ 81%] Built target arlo_auto_docking_generate_messages_eus
+[100%] Built target arlo_auto_docking_generate_messages_cpp
+[100%] Built target arlo_auto_docking_generate_messages

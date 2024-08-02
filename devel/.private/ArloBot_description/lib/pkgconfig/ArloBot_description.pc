@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/ArloBot_description
+
+Name: ArloBot_description
+Description: Description of ArloBot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

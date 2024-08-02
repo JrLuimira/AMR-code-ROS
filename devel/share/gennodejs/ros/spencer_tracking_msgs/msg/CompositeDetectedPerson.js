@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_tracking_msgs/share/gennodejs/ros/spencer_tracking_msgs/msg/CompositeDetectedPerson.js

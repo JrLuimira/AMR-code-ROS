@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/robotPV_V1_description/lib/pkgconfig/robotPV_V1_description.pc

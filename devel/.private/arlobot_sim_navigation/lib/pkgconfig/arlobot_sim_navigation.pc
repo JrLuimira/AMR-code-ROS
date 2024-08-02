@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_navigation
+
+Name: arlobot_sim_navigation
+Description: Description of arlobot_sim_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

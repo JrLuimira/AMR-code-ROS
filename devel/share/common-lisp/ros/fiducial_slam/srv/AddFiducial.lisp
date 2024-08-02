@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/fiducial_slam/share/common-lisp/ros/fiducial_slam/srv/AddFiducial.lisp

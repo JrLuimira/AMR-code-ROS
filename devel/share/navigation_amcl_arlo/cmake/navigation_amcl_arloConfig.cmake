@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/navigation_amcl_arlo/share/navigation_amcl_arlo/cmake/navigation_amcl_arloConfig.cmake

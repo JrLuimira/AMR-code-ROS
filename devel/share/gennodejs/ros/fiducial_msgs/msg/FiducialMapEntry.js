@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/fiducial_msgs/share/gennodejs/ros/fiducial_msgs/msg/FiducialMapEntry.js

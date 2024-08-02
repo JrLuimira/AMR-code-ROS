@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/fiducial_slam/share/fiducial_slam/cmake/fiducial_slamConfig.cmake

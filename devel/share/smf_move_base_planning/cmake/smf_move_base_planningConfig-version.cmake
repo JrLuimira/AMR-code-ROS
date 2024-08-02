@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/smf_move_base_planning/share/smf_move_base_planning/cmake/smf_move_base_planningConfig-version.cmake

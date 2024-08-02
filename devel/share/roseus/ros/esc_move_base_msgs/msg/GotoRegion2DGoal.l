@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/esc_move_base_msgs/share/roseus/ros/esc_move_base_msgs/msg/GotoRegion2DGoal.l

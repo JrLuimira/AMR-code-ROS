@@ -1,0 +1,4 @@
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig-version.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/libspencer_tracking_rviz_plugin.so
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/spencer_tracking_rviz_plugin.pc

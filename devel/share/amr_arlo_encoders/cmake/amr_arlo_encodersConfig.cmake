@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/amr_arlo_encoders/share/amr_arlo_encoders/cmake/amr_arlo_encodersConfig.cmake

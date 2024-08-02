@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_human_attribute_msgs/lib/python3/dist-packages/spencer_human_attribute_msgs/msg/_CategoricalAttribute.py

@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/turtlebot_sim
+
+Name: turtlebot_sim
+Description: Description of turtlebot_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

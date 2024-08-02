@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_control_msgs/share/arlo_control_msgs/cmake/arlo_control_msgsConfig.cmake

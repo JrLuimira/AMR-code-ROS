@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/smf_move_base_msgs/share/smf_move_base_msgs/msg/Goto2DResult.msg

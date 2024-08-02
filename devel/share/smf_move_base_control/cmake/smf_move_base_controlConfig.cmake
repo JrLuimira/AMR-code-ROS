@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/smf_move_base_control/share/smf_move_base_control/cmake/smf_move_base_controlConfig.cmake

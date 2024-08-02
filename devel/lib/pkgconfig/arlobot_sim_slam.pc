@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_slam/lib/pkgconfig/arlobot_sim_slam.pc

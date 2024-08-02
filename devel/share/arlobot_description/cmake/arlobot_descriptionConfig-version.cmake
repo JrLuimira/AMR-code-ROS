@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_description/share/arlobot_description/cmake/arlobot_descriptionConfig-version.cmake

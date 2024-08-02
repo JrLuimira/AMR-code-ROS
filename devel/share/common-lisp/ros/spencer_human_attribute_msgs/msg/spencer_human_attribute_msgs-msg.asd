@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_human_attribute_msgs/share/common-lisp/ros/spencer_human_attribute_msgs/msg/spencer_human_attribute_msgs-msg.asd

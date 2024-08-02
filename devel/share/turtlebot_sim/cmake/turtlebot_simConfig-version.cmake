@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/turtlebot_sim/share/turtlebot_sim/cmake/turtlebot_simConfig-version.cmake

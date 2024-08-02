@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
+
+Name: robotPV_V1_description
+Description: Description of robotPV_V1_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

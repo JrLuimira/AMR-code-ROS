@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_auto_docking/share/common-lisp/ros/arlo_auto_docking/msg/_package_AutoDockActionResult.lisp

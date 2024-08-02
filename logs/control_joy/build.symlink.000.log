@@ -1,0 +1,6 @@
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/control_joy/cmake/control_joyConfig-version.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/control_joy/cmake/control_joyConfig.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/control_joy/teleop_joy.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/control_joy/improved_joy.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/control_joy/cmake.lock
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/control_joy.pc

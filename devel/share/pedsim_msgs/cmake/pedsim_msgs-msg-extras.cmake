@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim_msgs/share/pedsim_msgs/cmake/pedsim_msgs-msg-extras.cmake

@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim
+
+Name: pedsim
+Description: Description of pedsim
+Version: 0.2.0
+Cflags: -I/home/luigi/amr/Walter_AMR/amr_ws/src/pedsim_ros/3rdparty/libpedsim/include/
+Libs: -L${prefix}/lib -lpedsim
+Requires: roscpp

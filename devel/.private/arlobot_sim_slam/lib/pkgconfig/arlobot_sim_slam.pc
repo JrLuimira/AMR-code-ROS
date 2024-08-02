@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_slam
+
+Name: arlobot_sim_slam
+Description: Description of arlobot_sim_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

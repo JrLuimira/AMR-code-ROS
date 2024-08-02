@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/fiducial_slam/include/fiducial_slam/AddFiducialResponse.h

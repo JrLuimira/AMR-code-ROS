@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobotcar_nav/lib/python3/dist-packages/tutorial_files/__init__.py

@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/cartographer_launcher/lib/pkgconfig/cartographer_launcher.pc

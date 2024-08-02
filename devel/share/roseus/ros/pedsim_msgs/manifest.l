@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim_msgs/share/roseus/ros/pedsim_msgs/manifest.l

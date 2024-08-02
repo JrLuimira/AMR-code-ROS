@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/leg_tracker/share/gennodejs/ros/leg_tracker/_index.js

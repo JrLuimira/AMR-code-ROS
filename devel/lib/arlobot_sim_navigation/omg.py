@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_navigation/lib/arlobot_sim_navigation/omg.py

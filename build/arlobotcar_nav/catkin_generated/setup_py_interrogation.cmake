@@ -1,0 +1,7 @@
+set(arlobotcar_nav_SETUP_PY_SETUP_MODULE "distutils.core")
+set(arlobotcar_nav_SETUP_PY_VERSION "0.0.0")
+set(arlobotcar_nav_SETUP_PY_SCRIPTS "")
+set(arlobotcar_nav_SETUP_PY_PACKAGES "tutorial_files")
+set(arlobotcar_nav_SETUP_PY_PACKAGE_DIRS "scripts/tutorial_files")
+set(arlobotcar_nav_SETUP_PY_MODULES "")
+set(arlobotcar_nav_SETUP_PY_MODULE_DIRS "")

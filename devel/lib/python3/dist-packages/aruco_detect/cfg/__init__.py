@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/aruco_detect/lib/python3/dist-packages/aruco_detect/cfg/__init__.py

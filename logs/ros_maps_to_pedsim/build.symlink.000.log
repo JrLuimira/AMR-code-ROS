@@ -1,0 +1,5 @@
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/ros_maps_to_pedsim/cmake/ros_maps_to_pedsimConfig-version.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/ros_maps_to_pedsim/cmake/ros_maps_to_pedsimConfig.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/ros_maps_to_pedsim.pc
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/ros_maps_to_pedsim/ros_maps_to_pedsim.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/ros_maps_to_pedsim/cmake.lock

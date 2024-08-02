@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_vision_msgs/share/spencer_vision_msgs/cmake/spencer_vision_msgs-msg-paths.cmake

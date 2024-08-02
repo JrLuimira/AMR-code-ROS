@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/fiducial_slam/share/gennodejs/ros/fiducial_slam/_index.js

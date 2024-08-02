@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/esc_move_base_planning/share/esc_move_base_planning/cmake/esc_move_base_planningConfig-version.cmake

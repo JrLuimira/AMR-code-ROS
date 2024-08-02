@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luigi/amr/Walter_AMR/amr_ws/devel/.private/my_ros_pkg/setup.sh

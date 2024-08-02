@@ -1,0 +1,12 @@
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/include/stag_detect/DetectorParamsConfig.h
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/stag_detect/cmake/stag_detectConfig-version.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/stag_detect/cmake/stag_detectConfig.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/stag_detect/docs/DetectorParamsConfig.wikidoc
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/stag_detect/docs/DetectorParamsConfig-usage.dox
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/stag_detect/docs/DetectorParamsConfig.dox
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/libstag_core.so
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/stag_detect/stag_detect
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/python3/dist-packages/stag_detect/__init__.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/python3/dist-packages/stag_detect/cfg/DetectorParamsConfig.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/python3/dist-packages/stag_detect/cfg/__init__.py
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/stag_detect.pc

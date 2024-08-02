@@ -1,0 +1,8 @@
+prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
+
+Name: arlo_auto_docking
+Description: Description of arlo_auto_docking
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -larlo_auto_docking
+Requires: actionlib actionlib_msgs roscpp rospy std_msgs message_runtime

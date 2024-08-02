@@ -1,0 +1,4 @@
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/smf_move_base_planning/cmake/smf_move_base_planningConfig.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/smf_move_base_planning/cmake/smf_move_base_planningConfig-version.cmake
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/smf_move_base_planning.pc
+Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/smf_move_base_planning/smf_move_base_planner

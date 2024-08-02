@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivity.h

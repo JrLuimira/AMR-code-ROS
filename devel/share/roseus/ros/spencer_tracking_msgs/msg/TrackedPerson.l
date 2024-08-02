@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_tracking_msgs/share/roseus/ros/spencer_tracking_msgs/msg/TrackedPerson.l

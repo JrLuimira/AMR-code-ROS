@@ -1,0 +1,1 @@
+/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/my_ros_pkg/lib/pkgconfig/my_ros_pkg.pc

@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target smf_move_base_mapper[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/smf_move_base_mapper.dir/src/social_heatmap.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/smf_move_base_mapper.dir/src/world_modeler.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/luigi/amr/Walter_AMR/amr_ws/devel/.private/smf_move_base_mapping/lib/smf_move_base_mapping/smf_move_base_mapper[0m
+[100%] Built target smf_move_base_mapper
