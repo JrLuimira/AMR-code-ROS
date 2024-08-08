@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
-
-Name: navigation_amcl_arlo
-Description: Description of navigation_amcl_arlo
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

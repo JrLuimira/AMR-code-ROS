@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
-
-Name: smf_move_base_mapping
-Description: Description of smf_move_base_mapping
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs nav_msgs tf tf2 tf2_ros

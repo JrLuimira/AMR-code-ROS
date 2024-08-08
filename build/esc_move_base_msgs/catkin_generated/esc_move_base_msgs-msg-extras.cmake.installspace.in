@@ -1,2 +1,0 @@
-set(esc_move_base_msgs_MESSAGE_FILES "msg/Path2D.msg;msg/Goto2DAction.msg;msg/Goto2DActionGoal.msg;msg/Goto2DActionResult.msg;msg/Goto2DActionFeedback.msg;msg/Goto2DGoal.msg;msg/Goto2DResult.msg;msg/Goto2DFeedback.msg;msg/GotoRegion2DAction.msg;msg/GotoRegion2DActionGoal.msg;msg/GotoRegion2DActionResult.msg;msg/GotoRegion2DActionFeedback.msg;msg/GotoRegion2DGoal.msg;msg/GotoRegion2DResult.msg;msg/GotoRegion2DFeedback.msg")
-set(esc_move_base_msgs_SERVICE_FILES "")

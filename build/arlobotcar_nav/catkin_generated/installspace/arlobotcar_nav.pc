@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
-
-Name: arlobotcar_nav
-Description: Description of arlobotcar_nav
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

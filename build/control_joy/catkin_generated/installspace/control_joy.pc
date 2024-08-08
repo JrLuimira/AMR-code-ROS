@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
-
-Name: control_joy
-Description: Description of control_joy
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

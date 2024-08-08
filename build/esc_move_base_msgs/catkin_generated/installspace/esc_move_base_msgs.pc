@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/install
-
-Name: esc_move_base_msgs
-Description: Description of esc_move_base_msgs
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs actionlib_msgs
