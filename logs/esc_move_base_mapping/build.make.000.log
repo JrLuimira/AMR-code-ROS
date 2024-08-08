@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target esc_move_base_mapper[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/esc_move_base_mapper.dir/src/octomap_gridmap_pc.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/luigi/amr/Walter_AMR/amr_ws/devel/.private/esc_move_base_mapping/lib/esc_move_base_mapping/esc_move_base_mapper[0m
-[100%] Built target esc_move_base_mapper

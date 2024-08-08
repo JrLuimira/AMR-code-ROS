@@ -1,8 +1,0 @@
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/arlobotcar_bringup/cmake/arlobotcar_bringupConfig-version.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/arlobotcar_bringup/cmake/arlobotcar_bringupConfig.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/arlobotcar_bringup.pc
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobotcar_bringup/cmake.lock
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobotcar_bringup/odom_raw.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobotcar_bringup/odom_publisher.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobotcar_bringup/odom_t265_modify.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobotcar_bringup/sampled_odom.py

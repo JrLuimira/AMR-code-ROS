@@ -1,5 +1,0 @@
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/arlobot_sim_slam/cmake/arlobot_sim_slamConfig.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/arlobot_sim_slam/cmake/arlobot_sim_slamConfig-version.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/arlobot_sim_slam.pc
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobot_sim_slam/cartographer_finisher.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/arlobot_sim_slam/cmake.lock

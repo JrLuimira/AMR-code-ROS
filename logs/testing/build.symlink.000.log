@@ -1,9 +1,0 @@
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/testing/cmake/testingConfig.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/share/testing/cmake/testingConfig-version.cmake
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/pkgconfig/testing.pc
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/cmake.lock
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/talker.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/turtlesim_pose.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/integration.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/movement.py
-Symlinking /home/luigi/amr/Walter_AMR/amr_ws/devel/lib/testing/listener.py
