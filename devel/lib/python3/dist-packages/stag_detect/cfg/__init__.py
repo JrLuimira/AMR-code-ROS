@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/stag_detect/lib/python3/dist-packages/stag_detect/cfg/__init__.py

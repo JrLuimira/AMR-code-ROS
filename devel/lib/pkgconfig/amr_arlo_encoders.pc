@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/amr_arlo_encoders/lib/pkgconfig/amr_arlo_encoders.pc

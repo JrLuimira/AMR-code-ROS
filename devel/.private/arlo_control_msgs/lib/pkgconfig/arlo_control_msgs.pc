@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_control_msgs
-
-Name: arlo_control_msgs
-Description: Description of arlo_control_msgs
-Version: 0.0.0
-Cflags: -I/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_control_msgs/include
-Libs: -L${prefix}/lib 
-Requires: 

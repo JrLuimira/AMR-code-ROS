@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_control_msgs/lib/python3/dist-packages/arlo_control_msgs/msg/__init__.py

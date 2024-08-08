@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/leg_tracker/share/roseus/ros/leg_tracker/msg/LegArray.l

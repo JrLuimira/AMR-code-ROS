@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/ros_maps_to_pedsim/lib/pkgconfig/ros_maps_to_pedsim.pc

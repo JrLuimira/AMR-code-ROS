@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim_sensors/share/pedsim_sensors/cmake/pedsim_sensorsConfig-version.cmake

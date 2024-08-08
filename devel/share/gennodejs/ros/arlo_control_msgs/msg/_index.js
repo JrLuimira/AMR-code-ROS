@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_control_msgs/share/gennodejs/ros/arlo_control_msgs/msg/_index.js

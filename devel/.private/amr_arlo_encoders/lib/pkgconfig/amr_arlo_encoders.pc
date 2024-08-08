@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/amr_arlo_encoders
-
-Name: amr_arlo_encoders
-Description: Description of amr_arlo_encoders
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

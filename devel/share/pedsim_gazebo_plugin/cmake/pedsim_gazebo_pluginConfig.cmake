@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim_gazebo_plugin/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig.cmake

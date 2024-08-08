@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/social_nav_tests/lib/pkgconfig/social_nav_tests.pc

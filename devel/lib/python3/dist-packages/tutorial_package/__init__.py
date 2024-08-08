@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_navigation/lib/python3/dist-packages/tutorial_package/__init__.py

@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_uv_launcher/share/arlobot_uv_launcher/cmake/arlobot_uv_launcherConfig.cmake

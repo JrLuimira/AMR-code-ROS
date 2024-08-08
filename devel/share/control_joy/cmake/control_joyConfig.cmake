@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/control_joy/share/control_joy/cmake/control_joyConfig.cmake

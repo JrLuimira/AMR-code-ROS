@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/social_nav_tests/share/social_nav_tests/cmake/social_nav_testsConfig-version.cmake

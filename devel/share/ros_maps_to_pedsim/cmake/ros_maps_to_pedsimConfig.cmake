@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/ros_maps_to_pedsim/share/ros_maps_to_pedsim/cmake/ros_maps_to_pedsimConfig.cmake

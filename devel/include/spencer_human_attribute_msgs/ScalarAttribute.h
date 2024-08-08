@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/ScalarAttribute.h

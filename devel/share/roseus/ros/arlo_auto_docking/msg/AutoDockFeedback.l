@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlo_auto_docking/share/roseus/ros/arlo_auto_docking/msg/AutoDockFeedback.l

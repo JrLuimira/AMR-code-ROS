@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobot_sim_navigation/share/arlobot_sim_navigation/cmake/arlobot_sim_navigationConfig.cmake

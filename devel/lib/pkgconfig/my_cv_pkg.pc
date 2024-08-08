@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/my_cv_pkg/lib/pkgconfig/my_cv_pkg.pc

@@ -1,8 +1,0 @@
-prefix=/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/arlobotcar_bringup
-
-Name: arlobotcar_bringup
-Description: Description of arlobotcar_bringup
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

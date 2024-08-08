@@ -1,1 +1,0 @@
-/home/luigi/amr/Walter_AMR/amr_ws/devel/.private/pedsim_visualizer/lib/python3/dist-packages/pedsim_visualizer/__init__.py
